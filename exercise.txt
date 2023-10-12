@@ -1,0 +1,11 @@
+1) create empty list food and perform following task
+    -> Add Three dish into it
+    -> Add two dish at the begining of list 
+    -> Add one dish at the end of list 
+    -> Sort list into ascending order 
+    -> reverse the list 
+    -> Find out position of pani puri in list 
+    -> Count how many times samosa are there in list 
+    -> create copy of list as dish2 
+    -> remove all item from dish2 
+
