@@ -9,3 +9,5 @@
     -> create copy of list as dish2 
     -> remove all item from dish2 
 
+2) create python program to accept room' length and width and then calculate & display room area 
+
