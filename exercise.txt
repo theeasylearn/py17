@@ -13,3 +13,8 @@
 
 3) create python program to accept circle radius and then calculate & circle area 
 
+4) create program to convert given two digit amount into words 
+input : 23 
+output : twenty three 
+input : 87 
+output : eight seven 
