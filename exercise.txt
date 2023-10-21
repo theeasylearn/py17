@@ -23,3 +23,12 @@ output : eight seven
 product price and discount percentage will be given by user 
 
 
+//decision makeing 
+1) write a program to accept run from user, if run is above 99 then display message congrulation for century. alway display message good job. 
+
+2) write a program to accept time from user. user will given time in 24 hour format. convert time into 12 hours format 
+input : 23 
+output : 11 pm 
+
+input : 11
+output : 11 am 
