@@ -32,3 +32,9 @@ output : 11 pm
 
 input : 11
 output : 11 am 
+
+3) write a program to findout whether shape is portrait or landscaipe from given length & width 
+
+4) write a program to findout which person is tallest from two person given height. 
+
+5) write a program to findout whether given year is milanimum year or not 
