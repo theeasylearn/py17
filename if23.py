@@ -13,5 +13,4 @@ else:
       print("2nd person is shortest person")
    else:
       print("3rd person is shortest person")
-
 print("good bye")

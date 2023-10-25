@@ -33,8 +33,20 @@ output : 11 pm
 input : 11
 output : 11 am 
 
-3) write a program to findout whether shape is portrait or landscaipe from given length & width 
+3) write a program to findout whether shape is portrait or landscape from given length & width 
 
 4) write a program to findout which person is tallest from two person given height. 
 
 5) write a program to findout whether given year is milanimum year or not 
+
+6) write a program to accept month number from user and print month name using if elif decision makeing
+
+7) write a program to display sugar level as per below condition
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5em_50CiTE6wd2kPqpywQrZve1_1kCm0W0-I19vpbiAIRmok06YuHzFFyVVxGXEo_Z0&usqp=CAU
+
+8) write a program to accept bmi from user as float value display weight status as per below conidition
+BMI 	        Weight Status
+Below 18.5 	    Underweight
+18.5 – 24.9 	Healthy Weight
+25.0 – 29.9 	Overweight
+30.0 and Above 	Obesity
