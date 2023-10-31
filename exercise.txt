@@ -50,3 +50,11 @@ Below 18.5 	    Underweight
 18.5 – 24.9 	Healthy Weight
 25.0 – 29.9 	Overweight
 30.0 and Above 	Obesity
+
+loop exercise 
+-----------------------------
+print gayatri mantra 24 times. 
+print national anthem lyrics 3 times. 
+print hanuman chalisa 5 times. 
+
+
