@@ -57,4 +57,13 @@ print gayatri mantra 24 times.
 print national anthem lyrics 3 times. 
 print hanuman chalisa 5 times. 
 
+write a program to print following pattern 
+2 4 6 8 10 ..... 100
+
+write a program to print following pattern 
+1 4 9 16 25 .... 100
+
+write a program to print following pattern 
+1 8 27 64 125 .... 1000
+
 
