@@ -66,4 +66,11 @@ write a program to print following pattern
 write a program to print following pattern 
 1 8 27 64 125 .... 1000
 
+write a program to findout whether given number is palindrom number or not 
+#input = 121
+#reverse = 121
+if inputed number is same as reverse number then it is paliendrom  otherwise not palindrom 
 
+write a program to print given amount into words 
+input : 123
+output : one two three 
