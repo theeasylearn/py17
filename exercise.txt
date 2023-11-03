@@ -74,3 +74,4 @@ if inputed number is same as reverse number then it is paliendrom  otherwise not
 write a program to print given amount into words 
 input : 123
 output : one two three 
+
