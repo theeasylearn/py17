@@ -75,3 +75,10 @@ write a program to print given amount into words
 input : 123
 output : one two three 
 
+write a program to following pattern 
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
