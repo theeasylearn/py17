@@ -82,3 +82,12 @@ write a program to following pattern
 * * * * *
 * * * * *
 
+https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
+
+invarted full pyramid 
+# 5 4 3 2 1
+# 5 4 3 2
+# 5 4 3
+# 5 4 
+# 5 
+
