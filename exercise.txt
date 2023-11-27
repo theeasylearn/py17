@@ -97,4 +97,13 @@ findout how many vowels and consonents are there in given string
 count positive and negative numbers in tuple which has only numbers
 
 findout whether user given favorite fruit name exist in list or not. list should have 10 fruits.
- 
+
+write a program to print all the month names from list in name wise asecnding order using for loop 
+
+write a program to print all the month names from list in name wise descnding order using for loop 
+
+write a program print temprature in farentheit for given range. accept start and stop value from user in terms of celsius. use for loop 
+
+write a program weight in grams for given range. accept start and stop value from user in terms of kilogram. use for loop 
+
+
