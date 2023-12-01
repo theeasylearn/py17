@@ -106,4 +106,7 @@ write a program print temprature in farentheit for given range. accept start and
 
 write a program weight in grams for given range. accept start and stop value from user in terms of kilogram. use for loop 
 
+date & time 
+1) display current date in mm-dd-yyyy format 
+2) display current date in dd-monthname-YYYY format 31-march-2023. (use decision makeing or use list)
 
