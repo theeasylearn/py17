@@ -110,3 +110,10 @@ date & time
 1) display current date in mm-dd-yyyy format 
 2) display current date in dd-monthname-YYYY format 31-march-2023. (use decision makeing or use list)
 
+module related expercise 
+create module named as CurrencyConverter Module. it should have following function
+    toDollar() convert rupees into dollar & return 
+    toPound() convert rupees into pound & return 
+    toYen() convert rupees into Yen & return 
+    toEuro() convert rupees into Euro & return 
+
